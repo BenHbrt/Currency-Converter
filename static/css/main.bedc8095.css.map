@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bedc8095.css","mappings":"AAAA,KACE,sBAGF,iBAGE,mBAGF,UAIE,uCADA,SADA,SAEA","sources":["App.scss"],"sourcesContent":["html {\n  box-sizing: border-box;\n}\n\n*,\n*:before,\n*:after {\n  box-sizing: inherit;\n}\n\nhtml,\nbody {\n  padding: 0;\n  margin: 0;\n  font-family: Arial, Helvetica, sans-serif;\n}"],"names":[],"sourceRoot":""}
